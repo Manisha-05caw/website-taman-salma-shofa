@@ -6,6 +6,7 @@
 | Nadila Putri             | 2409116052 |
 | Syawe Manisha P. Siregar | 2409116058 |
 | Azhaar Athahiroh         | 2409116057 |
+| Abdurrahman Al Farisy    | 2409116055 |
 
 ---
 
